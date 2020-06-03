@@ -1,7 +1,7 @@
 # Stock-Market-Analysis-Project
 
 •	Sources:
-o	Yahoo Finance
+-	Yahoo Finance
 o	Google News API
 o	Robinhood Top 100 most Popular Stocks
 •	Goal Statement: In light of the recent media frenzy surrounding COVID-19 over the last month, not to mention the wild dip on Monday 3/9 for the stock market, we were interested to see what conclusions we could pull from the data for Stock Prices and News Articles related to the stocks.  In short, does article count have any correlation to stock price?
